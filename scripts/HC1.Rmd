@@ -11,6 +11,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # HC 1 - Programming for economists
 
+```{r Grading}
+```
+
+## Grading
+
+- Written Exam (60%)
+
+- Presentation (pass/fail)
+
+- Written report (40%)
+
 ```{r Notes}
 ```
 
