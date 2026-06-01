@@ -1,0 +1,44 @@
+---
+title: "Group Presentation"
+author: "Storm Bakker"
+date: "`r Sys.Date()`"
+output: html_document
+knit: >
+  (function(inputFile, encoding) {
+    out_dir <- file.path(dirname(dirname(inputFile)), "notes")
+    dir.create(out_dir, showWarnings = FALSE, recursive = TRUE)
+    rmarkdown::render(inputFile, encoding = encoding, output_dir = out_dir)
+  })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Group
+
+1.  Nando Fredricks
+
+2.  Marline Human
+
+3.  Jasper Haavekost
+
+4.  Storm Bakker
+
+5.  Jermaine Koreman
+
+# How does housing pressure vary across Dutch municipalities, and are highly urban and rental-dependent areas disproportionately exposed?
+
+Stap 2 — Datasets verzamelen
+
+Minimaal:
+
+data/raw/kwb2025.xlsx data/raw/Toelichting-variabelen-kwb-2025.pdf
+
+Voor hogere score:
+
+data/raw/kwb2021.xlsx data/raw/kwb2022.xlsx data/raw/kwb2023.xlsx data/raw/kwb2024.xlsx data/raw/kwb2025.xlsx data/raw/maps/gemeentegrenzen_2025
+
+Waarom oudere KWB-jaren? Dan kun je temporal variation maken. Alleen 2025 is vooral spatial.
+
+Waarom kaartbestand? De KWB-toelichting zegt dat de wijk- en buurtkaart digitale geometrie bevat van gemeenten, wijken en buurten en beschikbaar wordt gesteld via CBS/PDOK.
