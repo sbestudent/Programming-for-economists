@@ -367,6 +367,30 @@ display: none;
 <li><p>Written report (40%)</p></li>
 </ul>
 </div>
+<div id="notes" class="section level2">
+<h2>Notes</h2>
+<ul>
+<li><p>Geen programmeren from scratch</p></li>
+<li><p>Group project, zelf onderzoek doen</p></li>
+<li><p>Use cases GitHub</p></li>
+<li><p>Voorbereiding data science</p></li>
+</ul>
+<p>Lectures omvatten project structuur en programming basics</p>
+<p>Tutorials omvatten werken met R specifiek</p>
+<p>Aanwezigheid niet verplicht, wel bij presentaties</p>
+<p>Examen is MC/Fill in the blank</p>
+<pre class="r"><code>Dataset &lt;- data(package = &quot;r4np&quot;)</code></pre>
+<p>voor inladen datasets: data(package = “r4np”)</p>
+<blockquote>
+<h1 id="elke-dataset-opslaan-in-data">elke dataset opslaan in data/</h1>
+<p>for (d in datasets) { + env &lt;- new.env() + data(list = d, package
+= “r4np”, envir = env) +<br />
++ obj &lt;- env[[d]] +<br />
++ if (is.data.frame(obj)) { + write.csv( + obj, + file = paste0(“data/”,
+d, “.csv”), + row.names = FALSE + ) + } else { + saveRDS( + obj, + file
+= paste0(“data/”, d, “.rds”) + ) + } + }</p>
+</blockquote>
+</div>
 </div>
 
 

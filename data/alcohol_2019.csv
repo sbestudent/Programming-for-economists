@@ -1,0 +1,189 @@
+"country","code","year","consumption"
+"Afghanistan","AFG",2019,0.01618
+"Albania","ALB",2019,5.10935
+"Algeria","DZA",2019,0.61271
+"Andorra","AND",2019,11.05154
+"Angola","AGO",2019,6.17199
+"Antigua and Barbuda","ATG",2019,8.51359
+"Argentina","ARG",2019,8.03999
+"Armenia","ARM",2019,4.98389
+"Australia","AUS",2019,10.0908
+"Austria","AUT",2019,11.97275
+"Azerbaijan","AZE",2019,1.96779
+"Bahamas","BHS",2019,4.39408
+"Bahrain","BHR",2019,1.58154
+"Bangladesh","BGD",2019,0.00516
+"Barbados","BRB",2019,9.46831
+"Belarus","BLR",2019,10.90107
+"Belgium","BEL",2019,10.28089
+"Belize","BLZ",2019,5.71321
+"Benin","BEN",2019,8.34555
+"Bhutan","BTN",2019,0.19989
+"Bolivia","BOL",2019,4.09584
+"Bosnia and Herzegovina","BIH",2019,6.3848
+"Botswana","BWA",2019,8.16316
+"Brazil","BRA",2019,7.67496
+"Brunei","BRN",2019,0.4118
+"Bulgaria","BGR",2019,11.91963
+"Burkina Faso","BFA",2019,9.81281
+"Burundi","BDI",2019,4.12798
+"Cambodia","KHM",2019,8.48211
+"Cameroon","CMR",2019,10.1012
+"Canada","CAN",2019,9.89647
+"Cape Verde","CPV",2019,6.27088
+"Central African Republic","CAF",2019,1.98657
+"Chad","TCD",2019,3.73055
+"Chile","CHL",2019,6.74572
+"China","CHN",2019,5.72525
+"Colombia","COL",2019,4.91572
+"Comoros","COM",2019,0.25281
+"Congo","COG",2019,6.39562
+"Costa Rica","CRI",2019,3.45249
+"Cote d'Ivoire","CIV",2019,2.80459
+"Croatia","HRV",2019,8.54359
+"Cuba","CUB",2019,6.01384
+"Cyprus","CYP",2019,8.05289
+"Czechia","CZE",2019,13.28805
+"Democratic Republic of Congo","COD",2019,2.11786
+"Denmark","DNK",2019,9.40172
+"Djibouti","DJI",2019,0.40234
+"Dominica","DMA",2019,6.09709
+"Dominican Republic","DOM",2019,6.76339
+"East Timor","TLS",2019,0.40188
+"Ecuador","ECU",2019,3.25713
+"Egypt","EGY",2019,0.14772
+"El Salvador","SLV",2019,3.28108
+"Equatorial Guinea","GNQ",2019,6.94451
+"Eritrea","ERI",2019,1.22926
+"Estonia","EST",2019,11.26302
+"Eswatini","SWZ",2019,8.09183
+"Ethiopia","ETH",2019,3.36259
+"Fiji","FJI",2019,3.44896
+"Finland","FIN",2019,9.15577
+"France","FRA",2019,11.30123
+"Gabon","GAB",2019,7.33414
+"Gambia","GMB",2019,1.11406
+"Georgia","GEO",2019,14.32856
+"Germany","DEU",2019,12.21997
+"Ghana","GHA",2019,4.54779
+"Greece","GRC",2019,7.11519
+"Grenada","GRD",2019,8.05902
+"Guatemala","GTM",2019,1.62539
+"Guinea","GIN",2019,0.46907
+"Guinea-Bissau","GNB",2019,4.14307
+"Guyana","GUY",2019,5.34695
+"Haiti","HTI",2019,3.45064
+"Honduras","HND",2019,3.1686
+"Hungary","HUN",2019,10.59925
+"Iceland","ISL",2019,8.07439
+"India","IND",2019,4.92498
+"Indonesia","IDN",2019,0.11037
+"Iran","IRN",2019,0.70015
+"Iraq","IRQ",2019,0.24048
+"Ireland","IRL",2019,11.7039
+"Israel","ISR",2019,3.00583
+"Italy","ITA",2019,7.96607
+"Jamaica","JAM",2019,3.60021
+"Japan","JPN",2019,6.68016
+"Jordan","JOR",2019,0.30566
+"Kazakhstan","KAZ",2019,4.52228
+"Kenya","KEN",2019,2.86537
+"Kiribati","KIR",2019,0.75599
+"Kuwait","KWT",2019,0
+"Kyrgyzstan","KGZ",2019,4.95335
+"Laos","LAO",2019,11.52024
+"Latvia","LVA",2019,13.09042
+"Lebanon","LBN",2019,1.48062
+"Lesotho","LSO",2019,4.54072
+"Liberia","LBR",2019,3.64307
+"Libya","LBY",2019,0.0084
+"Lithuania","LTU",2019,11.7853
+"Luxembourg","LUX",2019,11.5288
+"Madagascar","MDG",2019,1.02054
+"Malawi","MWI",2019,3.23678
+"Malaysia","MYS",2019,0.75939
+"Maldives","MDV",2019,1.42565
+"Mali","MLI",2019,4.34772
+"Malta","MLT",2019,8.52383
+"Mauritania","MRT",2019,0
+"Mauritius","MUS",2019,7.52215
+"Mexico","MEX",2019,5.71942
+"Micronesia (country)","FSM",2019,2.12472
+"Moldova","MDA",2019,11.36078
+"Mongolia","MNG",2019,7.93383
+"Montenegro","MNE",2019,10.34273
+"Morocco","MAR",2019,0.48891
+"Mozambique","MOZ",2019,2.02949
+"Myanmar","MMR",2019,2.11591
+"Namibia","NAM",2019,5.92607
+"Nauru","NRU",2019,2.94225
+"Nepal","NPL",2019,1.36347
+"Netherlands","NLD",2019,9.30324
+"New Zealand","NZL",2019,9.88698
+"Nicaragua","NIC",2019,4.17178
+"Niger","NER",2019,0.13121
+"Nigeria","NGA",2019,4.21026
+"North Korea","PRK",2019,4.28537
+"North Macedonia","MKD",2019,4.61578
+"Norway","NOR",2019,6.80397
+"Oman","OMN",2019,0.87812
+"Pakistan","PAK",2019,0.10347
+"Panama","PAN",2019,6.5962
+"Papua New Guinea","PNG",2019,1.69582
+"Paraguay","PRY",2019,5.60061
+"Peru","PER",2019,7.45063
+"Philippines","PHL",2019,6.1811
+"Poland","POL",2019,11.62513
+"Portugal","PRT",2019,10.44538
+"Qatar","QAT",2019,1.14628
+"Romania","ROU",2019,16.98964
+"Russia","RUS",2019,10.42279
+"Rwanda","RWA",2019,1.87832
+"Saint Kitts and Nevis","KNA",2019,6.34118
+"Saint Lucia","LCA",2019,9.47123
+"Saint Vincent and the Grenadines","VCT",2019,7.15801
+"Samoa","WSM",2019,2.39054
+"Sao Tome and Principe","STP",2019,5.00744
+"Saudi Arabia","SAU",2019,0
+"Senegal","SEN",2019,0.40913
+"Serbia","SRB",2019,7.88971
+"Seychelles","SYC",2019,11.98621
+"Sierra Leone","SLE",2019,0.26448
+"Singapore","SGP",2019,1.87287
+"Slovakia","SVK",2019,10.47519
+"Slovenia","SVN",2019,10.97589
+"Solomon Islands","SLB",2019,1.61601
+"Somalia","SOM",2019,0
+"South Africa","ZAF",2019,8.76621
+"South Korea","KOR",2019,8.18953
+"Spain","ESP",2019,10.91336
+"Sri Lanka","LKA",2019,2.82954
+"Sudan","SDN",2019,0.00506
+"Suriname","SUR",2019,6.63315
+"Sweden","SWE",2019,9.29617
+"Switzerland","CHE",2019,10.39688
+"Syria","SYR",2019,0.19829
+"Tajikistan","TJK",2019,0.86628
+"Tanzania","TZA",2019,10.35652
+"Thailand","THA",2019,7.84894
+"Togo","TGO",2019,1.42014
+"Tonga","TON",2019,0.37713
+"Trinidad and Tobago","TTO",2019,6.06472
+"Tunisia","TUN",2019,2.01463
+"Turkey","TUR",2019,1.82036
+"Turkmenistan","TKM",2019,2.92752
+"Tuvalu","TUV",2019,1.24819
+"Uganda","UGA",2019,12.2144
+"Ukraine","UKR",2019,8.69842
+"United Arab Emirates","ARE",2019,2.36873
+"United Kingdom","GBR",2019,10.8168
+"United States","USA",2019,9.56731
+"Uruguay","URY",2019,5.45265
+"Uzbekistan","UZB",2019,2.60223
+"Vanuatu","VUT",2019,1.87288
+"Venezuela","VEN",2019,3.01625
+"Vietnam","VNM",2019,9.33984
+"World","OWID_WRL",2019,5.4347816
+"Yemen","YEM",2019,0.02778
+"Zambia","ZMB",2019,3.85176
+"Zimbabwe","ZWE",2019,3.62809
