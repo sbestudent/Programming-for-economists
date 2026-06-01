@@ -60,5 +60,3 @@ voor inladen datasets: data(package = "r4np")
 > for (d in datasets) { + env \<- new.env() + data(list = d, package = "r4np", envir = env) +\
 > + obj \<- env[[d]] +\
 > + if (is.data.frame(obj)) { + write.csv( + obj, + file = paste0("data/", d, ".csv"), + row.names = FALSE + ) + } else { + saveRDS( + obj, + file = paste0("data/", d, ".rds") + ) + } + }
-
-
